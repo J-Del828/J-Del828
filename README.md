@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **j.delgado828gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ArNb4I5orVWMVz-cVTQomqd8SMyna8R0/view?usp=sharing)
+- 📄 Read about my experiences [My CV](https://drive.google.com/file/d/1ArNb4I5orVWMVz-cVTQomqd8SMyna8R0/view?usp=sharing)
 
-- ⚡ Fun fact **I love graphic design.**
+- ⚡ Fun fact: **I love graphic design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

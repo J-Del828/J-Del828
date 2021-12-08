@@ -1,15 +1,37 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+7721
+Fork on GitHub
+1553
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm John Delgado</h1>
 <h3 align="center">I am a driven full stack developer from the U.S.</h3>
 
 - 🔭 I’m currently working on [Blindly a blind dating web app.](www.blindly.one)
 
-- 🌱 I’m currently learning **React and Swift**
+- 💻 My education: [Le Wagon Certification](https://drive.google.com/file/d/1cDBNlL76wwzUr62yp_1z2H3d_43MD5bY/view?usp=sharinghttps://drive.google.com/file/d/1cDBNlL76wwzUr62yp_1z2H3d_43MD5bY/view?usp=sharing)
+
+- 🌱 I’m currently learning **React and Swift and improving my JS skills.**
+
+- 👯 I’m looking to collaborate on **JS and React projects.**
+
+- 🤝 I’m looking for help with **learning JS, React and Swift.**
 
 - 💬 Ask me about **Ruby on Rails, HTML, CSS and JS**
 
 - 📫 How to reach me **j.delgado828gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ArNb4I5orVWMVz-cVTQomqd8SMyna8R0/view?usp=sharing](https://drive.google.com/file/d/1ArNb4I5orVWMVz-cVTQomqd8SMyna8R0/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ArNb4I5orVWMVz-cVTQomqd8SMyna8R0/view?usp=sharing)
 
 - ⚡ Fun fact **I love graphic design.**
 

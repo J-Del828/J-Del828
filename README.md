@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7721
-Fork on GitHub
-1553
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm John Delgado</h1>
 <h3 align="center">I am a driven full stack developer from the U.S.</h3>
 

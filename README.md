@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Ruby on Rails, HTML, CSS and JS**
 
-- 📫 How to reach me **j.delgado828gmail.com**
+- 📫 How to reach me **john.delgado.johander828gmail.com**
 
 - 📄 Read about my experiences [My CV](https://drive.google.com/file/d/1ArNb4I5orVWMVz-cVTQomqd8SMyna8R0/view?usp=sharing)
 
